@@ -1,0 +1,149 @@
+1696434251871	geckodriver	INFO	Listening on 127.0.0.1:57007
+1696434252248	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/Use ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f1/x5_7305147vgb2y1wkdzc81h0000gn/T/rust_mozprofilemrf1Vp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696434255144	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696434255330	Marionette	INFO	Listening on port 57022
+WebDriver BiDi listening on ws://127.0.0.1:57008
+Read port: 57022
+1696434255553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:57008/devtools/browser/3eb349cc-dc1e-4317-891f-a9be3eda5146
+1696434256815	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: ({})
+1696434345324	Marionette	INFO	Stopped listening on port 57022
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1696434992671	geckodriver	INFO	Listening on 127.0.0.1:57336
+1696434993180	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/Use ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f1/x5_7305147vgb2y1wkdzc81h0000gn/T/rust_mozprofileZyR698"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696434993572	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696434993703	Marionette	INFO	Listening on port 57344
+WebDriver BiDi listening on ws://127.0.0.1:57337
+Read port: 57344
+1696434993839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:57337/devtools/browser/736dfec3-fcc0-4148-b111-b4d6af0f4b4a
+1696434994567	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: ({})
+1696435053796	geckodriver	INFO	Listening on 127.0.0.1:57397
+1696435054303	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/Use ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f1/x5_7305147vgb2y1wkdzc81h0000gn/T/rust_mozprofileY7XqJ5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696435054614	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696435054709	Marionette	INFO	Listening on port 57407
+Read port: 57407
+WebDriver BiDi listening on ws://127.0.0.1:57398
+1696435054827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:57398/devtools/browser/d465fb4d-6e1d-4b4d-8057-eb40835c2924
+console.error: ({})
+1696435067783	Marionette	INFO	Stopped listening on port 57407
+JavaScript warning: https://www.youtube.com/s/desktop/a24ea7cc/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js, line 2557: Script terminated by timeout at:
+Hp.prototype.transition@https://www.youtube.com/s/desktop/a24ea7cc/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:2557:33
+xI/<@https://www.youtube.com/s/desktop/a24ea7cc/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:8653:114
+
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+1696435130430	geckodriver	INFO	Listening on 127.0.0.1:57479
+1696435130944	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/Use ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f1/x5_7305147vgb2y1wkdzc81h0000gn/T/rust_mozprofileuxKkt7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696435131260	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696435131368	Marionette	INFO	Listening on port 57487
+WebDriver BiDi listening on ws://127.0.0.1:57480
+Read port: 57487
+1696435131538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:57480/devtools/browser/a871b234-f22b-459a-96ad-1c9e8b17f546
+console.error: ({})
+1696435143860	Marionette	INFO	Stopped listening on port 57487
+JavaScript warning: https://www.google.com/adsense/domains/caf.js?abp=1, line 245: Script terminated by timeout at:
+m.cb/e<@https://www.google.com/adsense/domains/caf.js?abp=1:245:122
+
+1696435295600	geckodriver	INFO	Listening on 127.0.0.1:57527
+1696435296107	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/Use ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f1/x5_7305147vgb2y1wkdzc81h0000gn/T/rust_mozprofilevmj8wD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696435296439	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696435296541	Marionette	INFO	Listening on port 57535
+Read port: 57535
+WebDriver BiDi listening on ws://127.0.0.1:57528
+1696435296661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:57528/devtools/browser/3787407b-8b39-495d-96ac-8747976df431
+1696435308797	Marionette	INFO	Stopped listening on port 57535
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+1697055515991	Marionette	INFO	Stopped listening on port 57344
+console.error: (new AbortError("A request was aborted, for example through a call to IDBTransaction.abort.", (void 0)))
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
