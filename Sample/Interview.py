@@ -13,6 +13,7 @@ if __name__ == '__main__':
     str=obj.enter_input()
     print(obj.reverse_string(str))
 
+print("First clone")
 
 
 
